@@ -1,6 +1,5 @@
 
 
-
 <form target="body" method="get" action="http://www.csci.csusb.edu/dick/cs375/lookup.php">
 [<a href="#Main Content">Skip Navigation</a>]
 [ <a href="http://csusb.edu">CSUSB </a>]
@@ -13,16 +12,16 @@
 <input type="hidden" name="from" value="cs375/header">
 <input type="submit" value="Go">]
 <br>
-[<a href="http://www.csci.csusb.edu/dick/cs375/about.html">About</a>] 
-[<a href="http://www.csci.csusb.edu/dick/cs375/contact.html">Contact</a>]
-[<a href="http://www.csci.csusb.edu/dick/cs375/grading/">Grades</a>] 
-[<a href="http://www.csci.csusb.edu/dick/cs375/objectives.html">Objectives</a>] 
-[<a href="http://www.csci.csusb.edu/dick/cs375/patterns.html">Patterns</a>] 
-[<a href="http://www.csci.csusb.edu/dick/cs375/projects.html">Projects</a>] 
-[<a href="http://www.csci.csusb.edu/dick/cs375/schedule.html">Schedule</a>] 
-[<a href="http://www.csci.csusb.edu/dick/cs375/syllabus.html">Syllabus</a>] 
+[About] (http://www.csci.csusb.edu/dick/cs375/about.html)
+[Contact] (http://www.csci.csusb.edu/dick/cs375/contact.html)
+[Grades] (http://www.csci.csusb.edu/dick/cs375/grading/)
+[Objectives] (http://www.csci.csusb.edu/dick/cs375/objectives.html)
+[Patterns] (http://www.csci.csusb.edu/dick/cs375/patterns.html)
+[Projects] (http://www.csci.csusb.edu/dick/cs375/projects.html)
+[Schedule] (http://www.csci.csusb.edu/dick/cs375/schedule.html)
+[Syllabus] (http://www.csci.csusb.edu/dick/cs375/syllabus.html)
 
-<br>Session:
+</br>Session:
 [<a href="http://www.csci.csusb.edu/dick/cs375/01.html">01</a>]
 [<a href="http://www.csci.csusb.edu/dick/cs375/02.html">02</a>]
 [<a href="http://www.csci.csusb.edu/dick/cs375/03.html">03</a>]
