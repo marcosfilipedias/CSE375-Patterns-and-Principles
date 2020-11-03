@@ -12,14 +12,14 @@
 <input type="hidden" name="from" value="cs375/header">
 <input type="submit" value="Go">]
 <br>
-[About] (http://www.csci.csusb.edu/dick/cs375/about.html)
-[Contact] (http://www.csci.csusb.edu/dick/cs375/contact.html)
-[Grades] (http://www.csci.csusb.edu/dick/cs375/grading/)
-[Objectives] (http://www.csci.csusb.edu/dick/cs375/objectives.html)
-[Patterns] (http://www.csci.csusb.edu/dick/cs375/patterns.html)
-[Projects] (http://www.csci.csusb.edu/dick/cs375/projects.html)
-[Schedule] (http://www.csci.csusb.edu/dick/cs375/schedule.html)
-[Syllabus] (http://www.csci.csusb.edu/dick/cs375/syllabus.html)
+[About (http://www.csci.csusb.edu/dick/cs375/about.html)]
+[Contact (http://www.csci.csusb.edu/dick/cs375/contact.html)]
+[Grades (http://www.csci.csusb.edu/dick/cs375/grading/)]
+[Objectives (http://www.csci.csusb.edu/dick/cs375/objectives.html)]
+[Patterns (http://www.csci.csusb.edu/dick/cs375/patterns.html)]
+[Projects (http://www.csci.csusb.edu/dick/cs375/projects.html)]
+[Schedule (http://www.csci.csusb.edu/dick/cs375/schedule.html)]
+[Syllabus (http://www.csci.csusb.edu/dick/cs375/syllabus.html)]
 
 </br>Session:
 [<a href="http://www.csci.csusb.edu/dick/cs375/01.html">01</a>]
