@@ -44,11 +44,6 @@
 [<a href="http://www.csci.csusb.edu/dick/cs375/19.html">19</a>]
 [<a href="http://www.csci.csusb.edu/dick/cs375/20.html">20</a>]
 
-
-<br>
-[<a href="patterns.txt">Text Version</a>]
- patterns.html 
-Thu Mar 21 14:14:04 PDT 2013
 <br>
 <h6>Opening the PDF files on this page may require you to download
 <a href="http://www.adobe.com/products/acrobat/readstep2.html">
