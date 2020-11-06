@@ -12,14 +12,35 @@
 <input type="hidden" name="from" value="cs375/header">
 <input type="submit" value="Go">]
 <br>
-[About (http://www.csci.csusb.edu/dick/cs375/about.html)]
-[Contact (http://www.csci.csusb.edu/dick/cs375/contact.html)]
-[Grades (http://www.csci.csusb.edu/dick/cs375/grading/)]
-[Objectives (http://www.csci.csusb.edu/dick/cs375/objectives.html)]
-[Patterns (http://www.csci.csusb.edu/dick/cs375/patterns.html)]
-[Projects (http://www.csci.csusb.edu/dick/cs375/projects.html)]
-[Schedule (http://www.csci.csusb.edu/dick/cs375/schedule.html)]
-[Syllabus (http://www.csci.csusb.edu/dick/cs375/syllabus.html)]
+
+<ul class="Contents"> 
+<li><a href="#Patterns and Principles">Patterns and Principles</a>
+</li><li><a href="#What is a Pattern">: What is a Pattern</a>
+</li><li><a href="#Domain and Business Model Patterns">: Domain and Business Model Patterns</a>
+</li><li><a href="#Software Design Patterns">: Software Design Patterns</a>
+</li><li><a href="#GRASP -- General Responsibility Assignment Software Patterns">: GRASP -- General Responsibility Assignment Software Patterns</a>
+</li><li><a href="#GoF Patterns">: GoF Patterns</a>
+</li><li><a href="#Set of_GoF_Patterns">: : Set of_GoF_Patterns</a>
+</li><li><a href="#XP Principles">: XP Principles</a>
+</li><li><a href="#Persistence Principles">: Persistence Principles</a>
+</li><li><a href="#Exception Principles">: Exception Principles</a>
+</li><li><a href="#OO Principles">: OO Principles</a>
+</li><li><a href="#Other Principles">: Other Principles</a>
+</li><li><a href="#AntiPatterns -- Patterns that occur but don't resolve the forces well">: AntiPatterns -- Patterns that occur but don't resolve the forces well</a>
+</li><li><a href="#The Ball of Mud Pattern or God Object">: : The Ball of Mud Pattern or God Object</a>
+</li><li><a href="#Good Links on Patterns">: Good Links on Patterns</a>
+</li><li><a href="#Standard Definitions">Standard Definitions</a>
+</li></ul>
+
+<ul class="contents">
+<li><a href="http://www.csci.csusb.edu/dick/cs375/about.html">About</a></li>
+<li><a href="http://www.csci.csusb.edu/dick/cs375/contact.html">Contact</a></li>
+<li><a href="http://www.csci.csusb.edu/dick/cs375/grading/">Grades</a></li>
+<li><a href="http://www.csci.csusb.edu/dick/cs375/objectives.html">Objectives</a></li>
+<li><a href="http://www.csci.csusb.edu/dick/cs375/patterns.html">Patterns</a></li>
+<li><a href="http://www.csci.csusb.edu/dick/cs375/projects.html">Projects</a></li>
+<li><a href="http://www.csci.csusb.edu/dick/cs375/schedule.html">Schedule</a></li>
+<li><a href="http://www.csci.csusb.edu/dick/cs375/syllabus.html">Syllabus</a></li>
 
 </br>Session:
 [<a href="http://www.csci.csusb.edu/dick/cs375/01.html">01</a>]
