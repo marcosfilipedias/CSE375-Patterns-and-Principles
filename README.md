@@ -321,9 +321,9 @@ and code
 </p><p>
 </p></li><li><a name="Bridge">Bridge</a>::<a href="#GoF">GoF</a>=<span class="InlineFormula">A class of objects that acts as an interface between clients and an implementation</span>.
 Unlike an <a href="#Adapter">Adapter</a> the <a href="#Bridge">Bridge</a> connects to a family of objects with the same operations.
-[<a href="http://c2.com/cgi/wiki?BridgePattern"> wiki?BridgePattern </a>]
-[<a href="http://pw.tech-arts.co.jp/download/design_pattern/images/bridge_s.jpg"> bridge_s.jpg </a>]
-[<a href="http://en.wikipedia.org/wiki/Bridge_pattern"> Bridge_pattern </a>]
+<a href="http://c2.com/cgi/wiki?BridgePattern"> wiki?BridgePattern </a>
+<a href="http://pw.tech-arts.co.jp/download/design_pattern/images/bridge_s.jpg"> bridge_s.jpg </a>
+<a href="http://en.wikipedia.org/wiki/Bridge_pattern"> Bridge_pattern </a>
 <p>
 </p></li><li><a name="Builder">Builder</a>::<a href="#GoF">GoF</a>=<span class="InlineFormula">How to constuct complex objects with varying parts? A director calls various builders as needed</span>, a variation on the <a href="#Factory">Factory</a> patterns.
 [<a href="http://en.wikipedia.org/wiki/Builder_pattern"> Builder_pattern </a>]
