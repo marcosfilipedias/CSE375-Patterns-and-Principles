@@ -202,7 +202,7 @@ See
 on the Wikipedia.
 <h2><a name="GRASP -- General Responsibility Assignment Software Patterns">GRASP -- General Responsibility Assignment Software Patterns</a></h2>
 From Craig Larman
-[<a href="../cs375/text.html"> ../cs375/text.html </a>]
+<a href="../cs375/text.html"> ../cs375/text.html </a>
 <p>
 </p><li><a name="Expert">Expert</a>::=<span class="InlineFormula">allocate a responsibility to a class that has the information</span>. Look
 in both the design classes and the domain model to find a type of object
