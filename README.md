@@ -11,7 +11,7 @@
 
 <input type="hidden" name="from" value="cs375/header">
 <input type="submit" value="Go">]
-<br>
+<br><br>
 <ul class="contents">
 <li><a href="http://www.csci.csusb.edu/dick/cs375/about.html">About</a></li>
 <li><a href="http://www.csci.csusb.edu/dick/cs375/contact.html">Contact</a></li>
