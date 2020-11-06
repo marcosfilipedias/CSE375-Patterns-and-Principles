@@ -232,7 +232,7 @@ Note: Choose controllers carefully to avoid low cohesion.
 <img src="./ControllerPattern.gif" alt="[Possible controllers]">
 </p><p>
 Compare
-<a href="patterns.html#MVC"> MVC </a>
+[<a href="patterns.html#MVC"> MVC </a>]
 (Model-View-Controller)
 and see <a href="#IDs_to_Objects">IDs_to_Objects</a> below.
 </p><p>
