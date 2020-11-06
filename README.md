@@ -201,7 +201,6 @@ See
 [<a href="http://en.wikipedia.org/wiki/Software_design_pattern"> Software_design_pattern </a>]
 on the Wikipedia.
 <h2><a name="GRASP -- General Responsibility Assignment Software Patterns">GRASP -- General Responsibility Assignment Software Patterns</a></h2>
-From Craig Larman
 
 <p>
 </p><li><a name="Expert">Expert</a>::=<span class="InlineFormula">allocate a responsibility to a class that has the information</span>. Look
@@ -233,7 +232,7 @@ Note: Choose controllers carefully to avoid low cohesion.
 <img src="./ControllerPattern.gif" alt="[Possible controllers]">
 </p><p>
 Compare
-[<a href="patterns.html#MVC"> MVC </a>]
+<a href="patterns.html#MVC"> MVC </a>
 (Model-View-Controller)
 and see <a href="#IDs_to_Objects">IDs_to_Objects</a> below.
 </p><p>
