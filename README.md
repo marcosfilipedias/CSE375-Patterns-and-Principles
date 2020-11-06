@@ -54,7 +54,7 @@ Thu Mar 21 14:14:04 PDT 2013
 Adobe Reader</a> or an equivalent viewer (GhostScript).</h6>
 <h3><a name="Contents">Contents</a></h3>
 <ul class="Contents">
-<li><a href="patterns.html#Patterns and Principles">Patterns and Principles</a>
+<li><a href="#Patterns and Principles">Patterns and Principles</a>
 </li><li><a href="patterns.html#What is a Pattern">: What is a Pattern</a>
 </li><li><a href="patterns.html#Domain and Business Model Patterns">: Domain and Business Model Patterns</a>
 </li><li><a href="patterns.html#Software Design Patterns">: Software Design Patterns</a>
