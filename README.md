@@ -54,23 +54,26 @@ Thu Mar 21 14:14:04 PDT 2013
 Adobe Reader</a> or an equivalent viewer (GhostScript).</h6>
 <h3><a name="Contents">Contents</a></h3>
 <ul class="Contents">
+ 
 <li><a href="#Patterns and Principles">Patterns and Principles</a>
-</li><li><a href="patterns.html#What is a Pattern">: What is a Pattern</a>
-</li><li><a href="patterns.html#Domain and Business Model Patterns">: Domain and Business Model Patterns</a>
-</li><li><a href="patterns.html#Software Design Patterns">: Software Design Patterns</a>
-</li><li><a href="patterns.html#GRASP -- General Responsibility Assignment Software Patterns">: GRASP -- General Responsibility Assignment Software Patterns</a>
-</li><li><a href="patterns.html#GoF Patterns">: GoF Patterns</a>
-</li><li><a href="patterns.html#Set of_GoF_Patterns">: : Set of_GoF_Patterns</a>
-</li><li><a href="patterns.html#XP Principles">: XP Principles</a>
-</li><li><a href="patterns.html#Persistence Principles">: Persistence Principles</a>
-</li><li><a href="patterns.html#Exception Principles">: Exception Principles</a>
-</li><li><a href="patterns.html#OO Principles">: OO Principles</a>
-</li><li><a href="patterns.html#Other Principles">: Other Principles</a>
-</li><li><a href="patterns.html#AntiPatterns -- Patterns that occur but don't resolve the forces well">: AntiPatterns -- Patterns that occur but don't resolve the forces well</a>
-</li><li><a href="patterns.html#The Ball of Mud Pattern or God Object">: : The Ball of Mud Pattern or God Object</a>
-</li><li><a href="patterns.html#Good Links on Patterns">: Good Links on Patterns</a>
-</li><li><a href="patterns.html#Standard Definitions">Standard Definitions</a>
-</li></ul><a name="Main Content"><hr></a><ol>
+</li><li><a href="#What is a Pattern">: What is a Pattern</a>
+</li><li><a href="#Domain and Business Model Patterns">: Domain and Business Model Patterns</a>
+</li><li><a href="#Software Design Patterns">: Software Design Patterns</a>
+</li><li><a href="#GRASP -- General Responsibility Assignment Software Patterns">: GRASP -- General Responsibility Assignment Software Patterns</a>
+</li><li><a href="#GoF Patterns">: GoF Patterns</a>
+</li><li><a href="#Set of_GoF_Patterns">: : Set of_GoF_Patterns</a>
+</li><li><a href="#XP Principles">: XP Principles</a>
+</li><li><a href="#Persistence Principles">: Persistence Principles</a>
+</li><li><a href="#Exception Principles">: Exception Principles</a>
+</li><li><a href="#OO Principles">: OO Principles</a>
+</li><li><a href="#Other Principles">: Other Principles</a>
+</li><li><a href="#AntiPatterns -- Patterns that occur but don't resolve the forces well">: AntiPatterns -- Patterns that occur but don't resolve the forces well</a>
+</li><li><a href="#The Ball of Mud Pattern or God Object">: : The Ball of Mud Pattern or God Object</a>
+</li><li><a href="#Good Links on Patterns">: Good Links on Patterns</a>
+</li><li><a href="#Standard Definitions">Standard Definitions</a>
+</li></ul><a name="Main Content">
+ 
+<hr></a><ol>
 <h1><a name="Patterns and Principles">Patterns and Principles</a></h1><ol class="Section">
 <h2><a name="What is a Pattern">What is a Pattern</a></h2>
 A pattern can be a recurring structure in a domain or business model.  It can be a
